@@ -1,3 +1,3 @@
 [submodule "jsnes"]
 	path = jsnes
-	url = https://github.com/bfirsh/jsnes
+	url = https://github.com/FXSolutions/jsnes
